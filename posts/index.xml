@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog</title><link>https://example.org/posts/</link><description>Recent content in Posts on Blog</description><generator>Hugo</generator><language>fr-ch</language><lastBuildDate>Thu, 15 Jan 2026 11:35:02 +0100</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Article 5</title><link>https://example.org/posts/05-article/</link><pubDate>Thu, 15 Jan 2026 11:35:02 +0100</pubDate><guid>https://example.org/posts/05-article/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;+++
+date = &amp;lsquo;2026-01-15T11:27:30+01:00&amp;rsquo;
+draft = true
+title = &amp;lsquo;05 Article&amp;rsquo;
++++&lt;/p&gt;</description></item><item><title>Article 4</title><link>https://example.org/posts/04-article/</link><pubDate>Thu, 15 Jan 2026 11:27:30 +0100</pubDate><guid>https://example.org/posts/04-article/</guid><description>&lt;p&gt;+++
+draft = true
+title = &amp;lsquo;04 Article&amp;rsquo;
++++&lt;/p&gt;</description></item><item><title>Article 3</title><link>https://example.org/posts/03-article/</link><pubDate>Thu, 15 Jan 2026 11:26:56 +0100</pubDate><guid>https://example.org/posts/03-article/</guid><description>&lt;p&gt;+++
+date = &amp;lsquo;2026-01-15T11:26:56+01:00&amp;rsquo;
+draft = true
+title = &amp;lsquo;03 Article&amp;rsquo;
++++&lt;/p&gt;</description></item><item><title>LLM</title><link>https://example.org/posts/02-article/</link><pubDate>Thu, 15 Jan 2026 11:26:48 +0100</pubDate><guid>https://example.org/posts/02-article/</guid><description>&lt;p&gt;+++&lt;/p&gt;
+&lt;p&gt;draft = true
+title = &amp;lsquo;02 Article&amp;rsquo;
++++&lt;/p&gt;</description></item><item><title>Système de veille</title><link>https://example.org/posts/01-article/</link><pubDate>Thu, 15 Jan 2026 11:26:43 +0100</pubDate><guid>https://example.org/posts/01-article/</guid><description>&lt;p&gt;Qui je suis, combien de fois par semaine/mois ?
+Lecture, vidéo ?&lt;/p&gt;
+&lt;p&gt;+++
+date = &amp;lsquo;2026-01-15T11:26:43+01:00&amp;rsquo;
+draft = true
+title = &amp;lsquo;01 Article&amp;rsquo;
++++&lt;/p&gt;</description></item></channel></rss>

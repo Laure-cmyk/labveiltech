@@ -1,5 +1,0 @@
----
-title : "Bienvenue"
----
-
-# Hello world
