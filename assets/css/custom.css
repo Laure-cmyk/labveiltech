@@ -1,0 +1,7 @@
+/* You can add custom style here */
+
+:root {
+  --bg-h: 197;      /* Hue (0-360) */
+  --bg-s: 15%;     /* Saturation (0-100%) */
+  --bg-l: 64%;    /* Lightness (0-100%) - high = light */
+}
