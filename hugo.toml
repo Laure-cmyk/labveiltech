@@ -47,6 +47,14 @@ theme = 'shibui'
   lastmod = [':git', 'lastmod', 'date', 'publishDate']
   publishDate = ['publishDate', 'date']
 
+[module]
+  [[module.mounts]]
+    source = "images"
+    target = "static/images"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
