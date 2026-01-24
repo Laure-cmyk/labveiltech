@@ -1,7 +1,7 @@
 ---
 title: 'Évolution des dark patterns'
 date : '2026-01-15T11:35:02+01:00'
-----
+---
 
 J'ai parlé de suivre les grands du milieu de l'UX et j'ai récemment appris que Jakob Nielsen, co-fondateur du Nielsen Norman Group et connu pour sa liste d'heuristiques, publiait sur Substack. Je n'ai inclus Substack dans ma liste car, au final, les newsletters s'entassent juste dans ma boîte mail. 
 
