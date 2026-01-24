@@ -12,13 +12,12 @@ title = &amp;lsquo;04 Article&amp;rsquo;
 date = &amp;lsquo;2026-01-15T11:26:56+01:00&amp;rsquo;
 draft = true
 title = &amp;lsquo;03 Article&amp;rsquo;
-+++&lt;/p&gt;</description></item><item><title>LLM</title><link>https://laure-cmyk.github.io/labveiltech/posts/02-article/</link><pubDate>Thu, 15 Jan 2026 11:26:48 +0100</pubDate><guid>https://laure-cmyk.github.io/labveiltech/posts/02-article/</guid><description>&lt;p&gt;+++&lt;/p&gt;
-&lt;p&gt;draft = true
-title = &amp;lsquo;02 Article&amp;rsquo;
-+++&lt;/p&gt;</description></item><item><title>Système de veille</title><link>https://laure-cmyk.github.io/labveiltech/posts/01-article/</link><pubDate>Thu, 15 Jan 2026 11:26:43 +0100</pubDate><guid>https://laure-cmyk.github.io/labveiltech/posts/01-article/</guid><description>&lt;p&gt;Qui je suis, combien de fois par semaine/mois ?
-Lecture, vidéo ?&lt;/p&gt;
-&lt;p&gt;+++
-date = &amp;lsquo;2026-01-15T11:26:43+01:00&amp;rsquo;
-draft = true
-title = &amp;lsquo;01 Article&amp;rsquo;
-+++&lt;/p&gt;</description></item></channel></rss>
++++&lt;/p&gt;</description></item><item><title>Les LLMs et moi</title><link>https://laure-cmyk.github.io/labveiltech/posts/02-article/</link><pubDate>Thu, 15 Jan 2026 11:26:48 +0100</pubDate><guid>https://laure-cmyk.github.io/labveiltech/posts/02-article/</guid><description>&lt;p&gt;&lt;strong&gt;Comme beaucoup, j’utilise Claude pour programmer.&lt;/strong&gt; Il m’arrive de demander à Mistral des estimations de coûts pour des exercices car je n’ai ni été formée ni ne possède le temps pour creuser chaque page web dédiée au sujet. Lorsque je le fais, je me retrouve à taper before:2023 à la suite de ma recherche, car les premières pages sont dominées par des textes rédigées par des LLMs, optimisés pour le SEO et cruellement vides d’informations réellement pertinentes.&lt;/p&gt;</description></item><item><title>My way to veille</title><link>https://laure-cmyk.github.io/labveiltech/posts/01-article/</link><pubDate>Thu, 15 Jan 2026 11:26:43 +0100</pubDate><guid>https://laure-cmyk.github.io/labveiltech/posts/01-article/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Dans cet article, je présente les moyens mis en place pour me tenir à jour dans le domaine de l&amp;rsquo;UX et, par extension, le domaine de l&amp;rsquo;UI. Je préfère les sites aux réseaux sociaux, outre pour des tips sur des logiciels, pour les raisons suivantes :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Les publications sont majoritairement des memes ou des blagues sans offrir de développement concret&lt;/li&gt;
+&lt;li&gt;J&amp;rsquo;ai la fâcheuse tendance d&amp;rsquo;enregistrer dans une collection et elle est devenue si énorme que je peine à retrouver une publication spécifique&lt;/li&gt;
+&lt;li&gt;Je finis toujours par doomscroll&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="le-primordial"&gt;Le primordial&lt;/h2&gt;
+&lt;p&gt;Le meilleur moyen de se maintenir à jour est, avant tout, regarder ce que tout le monde fait autour de soi : à quoi ressemble la nouvelle interface des applications les plus téléchargées, des e-commerces les plus utilisés ou du jeu vidéo de l’année.&lt;/p&gt;</description></item></channel></rss>
